@@ -6,3 +6,4 @@ It has following features:
 3. Auto brightness level of spwaned object for an immersive experience.
 4. Interactive UI.
 5. Slection of various color for the spwaned object in real time.
+6. Buy now option.
